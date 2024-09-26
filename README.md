@@ -1,7 +1,7 @@
 # Art Gallery
 
 A web page that showcases my art and photography.
-live at : https://artgalleryclub.netlify.app
+live at : https://ganeshartgallery.netlify.app
 ## Features
 
 - Smooth scrolling with parallax effect
