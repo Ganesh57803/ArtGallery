@@ -1,3 +1,7 @@
+// index.js
 document.addEventListener('DOMContentLoaded', function() {
-    document.querySelector('audio').play();
+    const playButton = document.getElementById('play-button');
+    playButton.addEventListener('click', function() {
+        document.querySelector('audio').play();
+    });
 });
